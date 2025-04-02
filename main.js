@@ -1,1 +1,1 @@
-window.location.href="https://github.com/Bronah1335/BlobbypassXSS/blob/main/main.html"
+window.location.href="https://Bronah1335.github.io/BlobbypassXSS/blob/main/main.html"
